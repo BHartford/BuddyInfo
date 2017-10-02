@@ -22,4 +22,8 @@ public class AddressBook {
 		book.addBuddy(newBuddy);
 		book.removeBuddy(newBuddy);
 	}
+	public void test()
+	{
+		System.out.println("this is a test");
+	}
 }
