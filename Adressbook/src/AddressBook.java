@@ -3,6 +3,7 @@ public class AddressBook {
 	ArrayList<BuddyInfo> buddyList;
 	public AddressBook()
 	{
+		//lel
 		buddyList = new ArrayList<BuddyInfo>();
 	}
 	public void addBuddy(BuddyInfo buddy)
